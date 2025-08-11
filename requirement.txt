@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-doctr
+torch
+transformers
+Pillow
+numpy
+opencv-python
+ultralytics
+git+https://github.com/openai/whisper.git
